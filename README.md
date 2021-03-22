@@ -3,10 +3,13 @@
 ## Problem 1  
 ### Environment: Java 8 + h2-database + Spring Web + JPA + Lombok
   ### build:
-    use mvn clean install
+     mvn clean install
  ### POST URL: 
     localhost:8080/get/{inputString}
  ### GET URL: 
      localhost:8080/get/{inputString}
+ ### H2-database url:
+    localhost:8080/h2-console
+    
 
 
