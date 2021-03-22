@@ -5,8 +5,8 @@
   ### build:
     use mvn clean install
  ### POST URL: 
-    localhost:8080/get/{string}
+    localhost:8080/get/{inputString}
  ### GET URL: 
-     localhost:8080/get/{string}
+     localhost:8080/get/{inputString}
 
 
