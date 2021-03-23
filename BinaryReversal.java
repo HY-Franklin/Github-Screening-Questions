@@ -1,7 +1,8 @@
 import java.util.Arrays;
 
-public class Problem_2 {
+public class BinaryReversal {
     public static void main(String[] args) {
+        // test output:
         System.out.println(BinaryReversal("47"));
 
     }
