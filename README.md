@@ -10,8 +10,8 @@
      localhost:8080/get/{inputString}
  ### H2-database url:
     localhost:8080/h2-console
- <img src="Problem1_Get.png"  width="800" />
- <img src="Problem1_Post.png"  width="800" />
+ <img src="images/Problem1_Get.png"  width="800" />
+ <img src="images/Problem1_Post.png"  width="800" />
  
  ## Problem 2   
-<img src="Problem2.png"  width="400" />
+<img src="images/Problem2.png"  width="400" />
