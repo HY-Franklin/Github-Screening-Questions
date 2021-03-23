@@ -1,6 +1,6 @@
 # Github-Screening-Questions
 
-## Problem 1 :longest palindromic substring micro-service 
+## Problem 1 : longest palindromic substring micro-service 
 ### Environment: Java 8 + h2-database + Spring Web + JPA + Lombok
   ### build:
      mvn clean install
@@ -14,6 +14,6 @@
  <img src="images/longest_palindromic_substring_Post.png"  width="800" />
  <img src="images/longest_palindromic_substring_Get.png"  width="800" />
 
- ## Problem 2 BinaryReversal 
+ ## Problem 2 : BinaryReversal 
 <img src="images/BinaryReversal.png"  width="400" />
 
